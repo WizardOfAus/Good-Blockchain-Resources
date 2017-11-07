@@ -9,7 +9,7 @@ A Good Resource Guide To Blockchain
 
 ## Good Books
 
-[Mastering Bitcoin 2nd Edition - Programming the Open Blockchain by Andreas M. Antonopoulos](https://github.com/WizardOfAus/bitcoinbook") //Good intro book
+[Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/WizardOfAus/bitcoinbook") by Andreas M. Antonopoulos //Good intro book
 
 ## Bitcoin Specific
 [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833 "Bitcoin Like I'm Five") //Analogical description of Bitcoin 
