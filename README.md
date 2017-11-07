@@ -12,8 +12,9 @@ A Good Resource Guide To Blockchain
 [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain by Andreas M. Antonopoulos](https://github.com/WizardOfAus/bitcoinbook") //Good intro book
 
 &nbsp;
-&nbsp;
 
-
+<p align="center">
 #### To be updated with links and periodic improvements.
+</p>
+
 
