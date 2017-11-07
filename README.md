@@ -12,7 +12,7 @@ A Good Resource Guide To Blockchain
 - [Bitcoin Specific](##heading)
 - [Investing specific](##heading)
 
-## How to get started
+## How to get started[How to get started](#anchors-in-markdown)
 
 To be filled in.
 
