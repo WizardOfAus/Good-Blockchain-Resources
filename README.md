@@ -3,7 +3,6 @@
 &nbsp;
 
 A Good Resource Guide To Blockchain
-
 &nbsp;
 
 ## Links to other useful sources
