@@ -6,11 +6,10 @@ A Good Resource Guide To Blockchain
 
 [TOC levels=1-3]: # "#### Table of Contents"
 #### Table of Contents
-- [How to get started](##heading)<a name="How to get started"/>
-- [Links to other useful sources](##heading)
-- [Good Books](##heading)
-- [Bitcoin Specific](##heading)
-- [Investing specific](##heading)
+- [How to get started](#how-to-get-started)
+- [Links to other useful sources](#links-to-other-useful-sources)
+- [Good Books](#good-books)
+- [Bitcoin Specific](#bitcoin-specific)
 - [Investing specific](#investing-specific)
 
 ## How to get started
