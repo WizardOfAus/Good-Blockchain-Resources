@@ -11,6 +11,7 @@ A Good Resource Guide To Blockchain
 - [Good Books](##heading)
 - [Bitcoin Specific](##heading)
 - [Investing specific](##heading)
+- [Investing specific](#investing-specific)
 
 ## How to get started
 
