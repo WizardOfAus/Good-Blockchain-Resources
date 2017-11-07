@@ -1,4 +1,4 @@
-# Good-Blockchain-Resources
+# Good Blockchain Resources
 
 &nbsp;
 A Good Resource Guide To Blockchain
