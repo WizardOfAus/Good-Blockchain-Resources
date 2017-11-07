@@ -4,6 +4,10 @@
 A Good Resource Guide To Blockchain
 &nbsp;
 
+## How to get started
+
+To be filled in.
+
 ## Links to other useful sources
 
 [CoinDesk Guide To Blockchain Technology](https://www.coindesk.com/information/ "CoinDesk Blockchain Guide") *//High Level Overview of Blockchain Technology*
@@ -17,6 +21,9 @@ A Good Resource Guide To Blockchain
 ## Bitcoin Specific
 [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833 "Bitcoin Like I'm Five") *//Analogical description of Bitcoin* 
 
+## Investing specific
+
+Guide to investing. TO be filled in.
 
 &nbsp;
 
