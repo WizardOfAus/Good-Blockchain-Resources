@@ -1,7 +1,7 @@
 # Good Blockchain Resources
 
 &nbsp;
-A Good & +Concise+ Resource Guide To Blockchain
+A Good & **Concise** Resource Guide To Blockchain
 
 There are some folders which have not been referenced here in the readme but include books on finance and investing as well as technical whitepapers that are useful to learn from.
 &nbsp;
