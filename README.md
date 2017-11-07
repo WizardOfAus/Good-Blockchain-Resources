@@ -1,3 +1,15 @@
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\urlstyle{same}
+ 
+\begin{document}
+
 # Good-Blockchain-Resources
 A Good Resource Guide To Blockchain
 
@@ -11,3 +23,5 @@ https://github.com/lhartikk/naivechain //NaiveChain - A blockchain implementatio
 https://github.com/WizardOfAus/bitcoinbook //Mastering Bitcoin 2nd Edition - Programming the Open Blockchain by  Andreas M. Antonopoulos
 
 To be update with links and periodic improvements.
+
+\end{document}
