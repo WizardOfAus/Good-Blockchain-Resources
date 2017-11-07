@@ -13,9 +13,8 @@ A Good Resource Guide To Blockchain
 
 &nbsp;
 
-#### 
 <p align="center">
-To be updated with links and periodic improvements.
+  <b>To be updated with links and periodic improvements.</b>
 </p>
 
 
