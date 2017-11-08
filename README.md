@@ -1,5 +1,4 @@
 # Good Blockchain Resources
-
 &nbsp;
 
 A Good & **Concise** Resource Guide To Blockchain
