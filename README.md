@@ -34,12 +34,18 @@ To be filled in.
 
 &nbsp;
 ## Bitcoin Specific
+[Bitcoin](https://github.com/bitcoin/bitcoin "Bitcoin Repo on GitHub") *//BitcoinCore*
+
 [Explain Bitcoin Like I'm Five](https://medium.freecodecamp.org/explain-bitcoin-like-im-five-73b4257ac833 "Bitcoin Like I'm Five") *//Analogical description of Bitcoin* 
 
 &nbsp;
 ## Investing specific
 
 Guide to investing. TO be filled in.
+
+[CoinTelegraph](https://cointelegraph.com/ "CoinTelegraph") *//One of the leading news publishers on cryptocurrency news* 
+
+[Bitcoin Magazine](https://bitcoinmagazine.com/ "Bitcoin Magazine") *//Bitcoin Magazine is the oldest and most established source of news, information and expert commentaries. Sometimes posts deep and very interesting articles.* 
 
 &nbsp;
 
