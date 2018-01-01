@@ -53,6 +53,21 @@ Guide to investing. TO be filled in.
 
 &nbsp;
 
+## Mining specific
+
+[Getting started with Monero](https://monero.stackexchange.com/questions/2538/starting-out-with-monero-on-osx "Stack Overflow Getting Started with Monero") *//Mining Monero*
+
+[Getting started with Monero 2](http://minexmr.com/#getting_started "Stack Overflow Getting Started with Monero 2") *//Mining Monero*
+
+[How to mine Monero](http://macminer.fabulouspanda.com/blog/index.php?post/2017/09/29/How-to-mine-Monero/XMR-on-macOS "How to Mine Monero with Fab Panda") *//Mining Monero Guide*
+
+[Install miner on website](https://coinhive.com/ "Coinhive") 
+
+[bfg Miner](https://github.com/luke-jr/bfgminer "bfg miner") *//Good for CPU and GPU mining*
+
+
+&nbsp;
+
 <p align="center">
   <b>To be updated with links and periodic improvements.</b>
 </p>
