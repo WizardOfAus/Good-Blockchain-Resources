@@ -65,6 +65,12 @@ Guide to investing. TO be filled in.
 
 [bfg Miner](https://github.com/luke-jr/bfgminer "bfg miner") *//Good for CPU and GPU mining*
 
+&nbsp;
+
+## Great Crypto Exchanges for Alts
+
+[Kucoin](https://www.kucoin.com/#/?r=1veRQQR "Exchange with great UX/UI and sign up bonus with code 1veRQQR") 
+
 
 &nbsp;
 
