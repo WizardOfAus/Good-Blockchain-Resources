@@ -27,6 +27,11 @@ To be filled in.
 
 [NaiveChain A Blockchain implementation in 200 lines of code](https://github.com/lhartikk/naivechain "NaiveChain") *//A good intro to programming for newbies*
 
+[A great starting point](http://blockchain.mit.edu/ "Blockchain MIT") *//A good start to blockchain*
+
+[A great intro to blockchain from one of my fave lecturers](https://www.youtube.com/watch?v=RSzbELqgpAA "Prof Brian") *//Big fan of him in-person in how he addresses questions*
+
+
 &nbsp;
 ## Good Books
 
