@@ -56,6 +56,8 @@ Guide to investing. TO be filled in.
 
 [Bitcoin Magazine](https://bitcoinmagazine.com/ "Bitcoin Magazine") *//Bitcoin Magazine is the oldest and most established source of news, information and expert commentaries. Sometimes posts deep and very interesting articles.* 
 
+[CoinMetrics](https://coinmetrics.io/ "Open source cryptoasset analytics") *//Useful Resources for Investments* 
+
 &nbsp;
 
 ## Mining specific
