@@ -18,6 +18,8 @@ There are some folders which have not been referenced here in the readme but inc
 
 There are several 'introductions' on can follow on how to 'get started'. These introductions tend to follow a path that depends on what one wishes to get to start on whether it is a hands-on technical approach, an investing approach, an academic approach etc. This guide and the resources are more specifically focused on the former with a sprinkle of high level explanations (for the newbies) and a small aside to investing as well.
 
+Read [A CypherPunk Manifesto](https://www.activism.net/cypherpunk/manifesto.html "Spiritual Guidance on Cryptocurrency.") 
+
 To be filled in.
 
 &nbsp;
