@@ -39,6 +39,8 @@ To be filled in.
 
 [Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/WizardOfAus/bitcoinbook") by Andreas M. Antonopoulos *//Good intro book*
 
+[Applied Cryptography 2nd Edition](https://www.schneier.com/books/applied_cryptography/) By Bruce Schneier *// Great introduction on the basics of cryptography*
+
 &nbsp;
 ## Bitcoin Specific
 [Bitcoin](https://github.com/bitcoin/bitcoin "Bitcoin Repo on GitHub") *//BitcoinCore*
